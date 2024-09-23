@@ -49,3 +49,7 @@ If the board is filled and no player has won, the game will declare a **Tie**.
 ## License
 
 This project is open-source and can be modified and distributed freely.
+
+---
+
+Enjoy the game! 🎮
