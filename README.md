@@ -52,4 +52,4 @@ This project is open-source and can be modified and distributed freely.
 
 ---
 
-Enjoy the game! 🎮
+Enjoy the game!! 🎮
